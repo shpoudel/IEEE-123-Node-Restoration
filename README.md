@@ -2,7 +2,7 @@
 
 This repository containts the code for restoration of IEEE 123 node based on approach as detailed in the following paper:
 
-S.Poudel and A. Dueby, "Critical load restoration using distributed energy resources for resilient power distribution system." IEEE Transactions on Power Systems 34.1 (2018): 52-63.
+[1] S. Poudel and A. Dubey, "Critical load restoration using distributed energy resources for resilient power distribution system." IEEE Transactions on Power Systems 34.1 (2018): 52-63.
 
 The scripts are written in MATLAB 2016a and optimization requires MATLAB to be linked with CPLEX. Please be familiar with mixed-integer linear programming. https://www.ibm.com/support/knowledgecenter/pl/SSSA5P_12.8.0/ilog.odms.cplex.help/refmatlabcplex/html/cplexmilp-m.html
 
